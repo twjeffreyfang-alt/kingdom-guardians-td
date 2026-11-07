@@ -1,0 +1,6 @@
+{
+  "name": "王國守護者：草坪線路防守",
+  "description": "經典植物大戰殭屍風格線路防守：精緻人類英雄守護者、乾淨無障礙草坪戰場、陽光金幣掉落、除草應急戰車與波次攻防。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
